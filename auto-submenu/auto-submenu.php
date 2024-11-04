@@ -3,13 +3,13 @@
  * Plugin Name: Auto Submenu - Free
  * Plugin URI: https://wordpress.telodelic.nl/auto-submenu
  * Description: Dynamic menus: Add a page to your menu and then let WordPress automatically add the child pages.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Diana van de Laarschot
  * Author URI: https://wordpress.telodelic.nl
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.4
- * Tested up to: 6.6
+ * Tested up to: 6.7
  * Requires PHP: 7.4
  * Text Domain: auto-submenu
  */
