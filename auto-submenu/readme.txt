@@ -4,9 +4,9 @@ Donate link: https://wordpress.telodelic.nl/auto-submenu
 Tags: menu, submenu, subpages, pages, navigation
 License: GPL-2.0-or-later
 Requires at least: 3.0
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable Tag: 1.0.3
+Stable Tag: 1.0.4
 
 Dynamic menus: Add a page to your menu and then let WordPress automatically add the child pages.
 
@@ -64,6 +64,10 @@ Now provides support editing via the Customizer.
 Now provides support for Full Site Editing with the Gutenberg Block Editor.
 
 == Changelog ==
+
+= 1.0.4 = 
+
+* Confirmed compatibility with WordPress 6.8
 
 = 1.0.3 = 
 
